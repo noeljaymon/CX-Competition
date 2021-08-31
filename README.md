@@ -1,0 +1,2 @@
+# CX-Competition
+I have built a simple bot that provides users with some music recommendations based on the genre that the user provides. I have created multiple flows and pages which make it easier for any new user to understand the functionality. I have made use of page parameters and session parameters to provide dynamic responses and the solution can be enhanced with integration of firestore database and webhook service.
